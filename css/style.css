@@ -48,7 +48,7 @@ h2 {
 *******************************************/
 header{
 	height: 550px;
-	background-image: url("../images/Gyeongbokgung.jpg");
+	background-image: url("images/Gyeongbokgung.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
